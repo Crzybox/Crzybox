@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Crzybox,
+**I'm Crzybox,**
 
 - 🔭 I’m currently studying Computer Science at HUFE
 - 🌱 I’m currently learning Java/Python/javascript 
